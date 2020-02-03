@@ -1,0 +1,27 @@
+{
+         "userId": "5e37384b905e0124b05e6aa4",
+        "movieId":"5e3738e7a98ce01720e94104" 
+        
+    }
+
+
+
+
+{
+         "name": "test",
+        "actor":"Fail" ,
+        "price":"2" ,
+        "stocks":"1000"
+    }
+
+
+
+
+
+
+{
+        "firstname": "King",
+        "lastname": "Queen",
+        "email": "Fort@gmail.com"
+    }
+
